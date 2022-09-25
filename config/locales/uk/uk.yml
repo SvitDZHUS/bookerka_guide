@@ -1,0 +1,8 @@
+uk:
+  global:
+    en_switch: "EN"
+    uk_switch: "UK"
+    translate: "BOOKER.ka тепер українською!"
+  welcome_pages:
+    welcome:
+      title: "Вітаємо у BOOKER.ka"
